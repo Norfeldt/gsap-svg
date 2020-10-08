@@ -40,6 +40,10 @@ function App() {
         scale={6}
         hasBoldText
       />
+
+      <div class="switch-element switch-container">
+        <div class="switch-element switch-knob"></div>
+      </div>
     </div>
   )
 }
